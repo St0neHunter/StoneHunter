@@ -2,12 +2,7 @@ ___
 ## What is it?
 
 Hive PBR is an UNOFFICIAL edit to Hives custom blocks wich adds support for RTX and the Deferred Technical Preview 
-this makes it so custom blocks from Hive can now be:
-- reflective (Metallic Map)
-- Glowing (Emissive Map)
-- dull (Roughness Map)
-and this even adds heigt maps to give all custom blocks a bit of dept
-
+by add [full PBR support](https://learn.microsoft.com/en-us/minecraft/creator/documents/rtxpbrintro?view=minecraft-bedrock-stable) to all custom blocks*
 ### How do I install this?!
 - first download the ZIP in the top right corner
 - inzip the file (this is reqiered otherwize the next step won't work)
