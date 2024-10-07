@@ -7,3 +7,4 @@ show_downloads: [true]
 show_tar: [false]
 github:
   zip_url: http://playhive.com
+  tar_url: http://playhive.com
