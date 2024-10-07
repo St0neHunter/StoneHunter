@@ -4,7 +4,7 @@ title: [Hive PBR]
 description: [First ever resource pack edit to add support for PBR textures]
 
 show_downloads: [true]
-show_tar: [false]
+show_tar_download: [false]
 github:
   zip_url: http://playhive.com
   tar_url: http://playhive.com
